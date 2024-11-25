@@ -1,3 +1,5 @@
+![Thumbnail](/public/images/page.jpg)
+
 Link to project:https://demoday-sy87.onrender.com
 
 ## Installation

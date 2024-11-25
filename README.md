@@ -1,5 +1,8 @@
 ![Thumbnail](/public/images/page.jpg)
 
+ ## How It's Made:
+ Tech used: EJS, CSS, JavaScript, Node.js, MongoDB
+
 Link to project:https://demoday-sy87.onrender.com
 
 ## Installation
